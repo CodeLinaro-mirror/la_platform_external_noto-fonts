@@ -17,6 +17,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
+ifneq ($(MULTI_LANG_ENGINE),REVERIE)
 ifneq ($(SMALLER_FONT_FOOTPRINT),true)
 
 include $(CLEAR_VARS)
@@ -147,4 +148,5 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_PATH := $(TARGET_OUT)/fonts
 include $(BUILD_PREBUILT)
 
+endif
 endif

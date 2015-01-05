@@ -126,6 +126,10 @@ font_src_files += \
     NotoSansLao-Bold.ttf \
     NotoSansLaoUI-Regular.ttf \
     NotoSansLaoUI-Bold.ttf \
+    NotoSansMalayalam-Regular.ttf \
+    NotoSansMalayalam-Bold.ttf \
+    NotoSansMalayalamUI-Regular.ttf \
+    NotoSansMalayalamUI-Bold.ttf \
     NotoSansThai-Regular.ttf \
     NotoSansThai-Bold.ttf \
     NotoSansThaiUI-Regular.ttf \

@@ -27,7 +27,6 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_PATH := $(TARGET_OUT)/fonts
 include $(BUILD_PREBUILT)
 
-ifneq ($(MULTI_LANG_ENGINE),REVERIE)
 include $(CLEAR_VARS)
 LOCAL_MODULE := NotoSansMalayalam-Regular.ttf
 LOCAL_SRC_FILES := $(LOCAL_MODULE)
@@ -60,6 +59,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_PATH := $(TARGET_OUT)/fonts
 include $(BUILD_PREBUILT)
 
+ifneq ($(MULTI_LANG_ENGINE),REVERIE)
 include $(CLEAR_VARS)
 LOCAL_MODULE := NotoSansBengali-Regular.ttf
 LOCAL_SRC_FILES := $(LOCAL_MODULE)

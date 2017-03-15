@@ -17,7 +17,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(SMALLER_FONT_FOOTPRINT),true)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := NotoColorEmoji.ttf
@@ -27,6 +26,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_PATH := $(TARGET_OUT)/fonts
 include $(BUILD_PREBUILT)
 
+ifneq ($(SMALLER_FONT_FOOTPRINT),true)
 include $(CLEAR_VARS)
 LOCAL_MODULE := NotoSansMalayalam-Regular.ttf
 LOCAL_SRC_FILES := $(LOCAL_MODULE)

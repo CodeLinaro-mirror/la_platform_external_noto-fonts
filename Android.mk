@@ -14,6 +14,8 @@
 
 NOTO_DIR := $(call my-dir)
 
+include $(call all-makefiles-under,$(NOTO_DIR))
+
 # We have to use BUILD_PREBUILT instead of PRODUCT_COPY_FILES,
 # to copy over the NOTICE file.
 #############################################################################
@@ -80,6 +82,7 @@ font_src_files := \
 #############################################################################
 ifneq ($(SMALLER_FONT_FOOTPRINT),true)
 font_src_files += \
+    NotoSansAdlam-Regular.ttf \
     NotoSansAvestan-Regular.ttf \
     NotoSansBalinese-Regular.ttf \
     NotoSansBamum-Regular.ttf \

@@ -69,10 +69,6 @@ PRODUCT_PACKAGES := \
     NotoSansLao-Bold.ttf \
     NotoSansLaoUI-Regular.ttf \
     NotoSansLaoUI-Bold.ttf \
-    NotoSansMalayalam-Regular.ttf \
-    NotoSansMalayalam-Bold.ttf \
-    NotoSansMalayalamUI-Regular.ttf \
-    NotoSansMalayalamUI-Bold.ttf \
     NotoSansSymbols-Regular.ttf \
     NotoSansThai-Regular.ttf \
     NotoSansThai-Bold.ttf \

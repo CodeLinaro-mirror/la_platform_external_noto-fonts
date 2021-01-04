@@ -32,6 +32,27 @@ prebuilt_font {
     src: "NotoSerif-BoldItalic.ttf",
 }
 
+
+prebuilt_font {
+    name: "NotoNaskhArabic-Bold.ttf",
+    src: "NotoNaskhArabic-Bold.ttf",
+}
+
+prebuilt_font {
+    name: "NotoNaskhArabic-Regular.ttf",
+    src: "NotoNaskhArabic-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "NotoNaskhArabicUI-Bold.ttf",
+    src: "NotoNaskhArabicUI-Bold.ttf",
+}
+
+prebuilt_font {
+    name: "NotoNaskhArabicUI-Regular.ttf",
+    src: "NotoNaskhArabicUI-Regular.ttf",
+}
+
 prebuilt_font {
     name: "NotoSansAdlam-VF.ttf",
     src: "NotoSansAdlam-VF.ttf",
@@ -45,6 +66,11 @@ prebuilt_font {
 prebuilt_font {
     name: "NotoSansAnatolianHieroglyphs-Regular.otf",
     src: "NotoSansAnatolianHieroglyphs-Regular.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansArmenian-VF.ttf",
+    src: "NotoSansArmenian-VF.ttf",
 }
 
 prebuilt_font {
@@ -173,6 +199,36 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "NotoSansDevanagari-Bold.otf",
+    src: "NotoSansDevanagari-Bold.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansDevanagari-Medium.otf",
+    src: "NotoSansDevanagari-Medium.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansDevanagari-Regular.otf",
+    src: "NotoSansDevanagari-Regular.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansDevanagariUI-Bold.otf",
+    src: "NotoSansDevanagariUI-Bold.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansDevanagariUI-Medium.otf",
+    src: "NotoSansDevanagariUI-Medium.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansDevanagariUI-Regular.otf",
+    src: "NotoSansDevanagariUI-Regular.otf",
+}
+
+prebuilt_font {
     name: "NotoSansEgyptianHieroglyphs-Regular.ttf",
     src: "NotoSansEgyptianHieroglyphs-Regular.ttf",
 }
@@ -183,13 +239,13 @@ prebuilt_font {
 }
 
 prebuilt_font {
-    name: "NotoSansEthiopic-Bold.ttf",
-    src: "NotoSansEthiopic-Bold.ttf",
+    name: "NotoSansEthiopic-VF.ttf",
+    src: "NotoSansEthiopic-VF.ttf",
 }
 
 prebuilt_font {
-    name: "NotoSansEthiopic-Regular.ttf",
-    src: "NotoSansEthiopic-Regular.ttf",
+    name: "NotoSansGeorgian-VF.ttf",
+    src: "NotoSansGeorgian-VF.ttf",
 }
 
 prebuilt_font {
@@ -200,6 +256,11 @@ prebuilt_font {
 prebuilt_font {
     name: "NotoSansGothic-Regular.ttf",
     src: "NotoSansGothic-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSansGrantha-Regular.ttf",
+    src: "NotoSansGrantha-Regular.ttf",
 }
 
 prebuilt_font {
@@ -223,6 +284,11 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "NotoSansGunjalaGondi-Regular.otf",
+    src: "NotoSansGunjalaGondi-Regular.otf",
+}
+
+prebuilt_font {
     name: "NotoSansGurmukhi-Bold.ttf",
     src: "NotoSansGurmukhi-Bold.ttf",
 }
@@ -243,6 +309,11 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "NotoSansHanifiRohingya-Regular.otf",
+    src: "NotoSansHanifiRohingya-Regular.otf",
+}
+
+prebuilt_font {
     name: "NotoSansHanunoo-Regular.ttf",
     src: "NotoSansHanunoo-Regular.ttf",
 }
@@ -250,6 +321,16 @@ prebuilt_font {
 prebuilt_font {
     name: "NotoSansHatran-Regular.otf",
     src: "NotoSansHatran-Regular.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansHebrew-Bold.ttf",
+    src: "NotoSansHebrew-Bold.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSansHebrew-Regular.ttf",
+    src: "NotoSansHebrew-Regular.ttf",
 }
 
 prebuilt_font {
@@ -315,6 +396,11 @@ prebuilt_font {
 prebuilt_font {
     name: "NotoSansKhmerUI-Regular.ttf",
     src: "NotoSansKhmerUI-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSansKhojki-Regular.otf",
+    src: "NotoSansKhojki-Regular.otf",
 }
 
 prebuilt_font {
@@ -418,6 +504,16 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "NotoSansMasaramGondi-Regular.otf",
+    src: "NotoSansMasaramGondi-Regular.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansMedefaidrin-VF.ttf",
+    src: "NotoSansMedefaidrin-VF.ttf",
+}
+
+prebuilt_font {
     name: "NotoSansMeeteiMayek-Regular.ttf",
     src: "NotoSansMeeteiMayek-Regular.ttf",
 }
@@ -430,6 +526,11 @@ prebuilt_font {
 prebuilt_font {
     name: "NotoSansMiao-Regular.otf",
     src: "NotoSansMiao-Regular.otf",
+}
+
+prebuilt_font {
+    name: "NotoSansModi-Regular.ttf",
+    src: "NotoSansModi-Regular.ttf",
 }
 
 prebuilt_font {
@@ -628,13 +729,13 @@ prebuilt_font {
 }
 
 prebuilt_font {
-    name: "NotoSansSinhala-Regular.otf",
-    src: "NotoSansSinhala-Regular.otf",
+    name: "NotoSansSinhala-Medium.otf",
+    src: "NotoSansSinhala-Medium.otf",
 }
 
 prebuilt_font {
-    name: "NotoSansSinhala-Medium.otf",
-    src: "NotoSansSinhala-Medium.otf",
+    name: "NotoSansSinhala-Regular.otf",
+    src: "NotoSansSinhala-Regular.otf",
 }
 
 prebuilt_font {
@@ -658,6 +759,11 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "NotoSansSoyombo-VF.ttf",
+    src: "NotoSansSoyombo-VF.ttf",
+}
+
+prebuilt_font {
     name: "NotoSansSundanese-Regular.ttf",
     src: "NotoSansSundanese-Regular.ttf",
 }
@@ -665,6 +771,16 @@ prebuilt_font {
 prebuilt_font {
     name: "NotoSansSylotiNagri-Regular.ttf",
     src: "NotoSansSylotiNagri-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSansSymbols-Regular-Subsetted.ttf",
+    src: "NotoSansSymbols-Regular-Subsetted.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSansSymbols-Regular-Subsetted2.ttf",
+    src: "NotoSansSymbols-Regular-Subsetted2.ttf",
 }
 
 prebuilt_font {
@@ -705,6 +821,11 @@ prebuilt_font {
 prebuilt_font {
     name: "NotoSansTaiViet-Regular.ttf",
     src: "NotoSansTaiViet-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSansTakri-VF.ttf",
+    src: "NotoSansTakri-VF.ttf",
 }
 
 prebuilt_font {
@@ -768,13 +889,28 @@ prebuilt_font {
 }
 
 prebuilt_font {
-    name: "NotoSansTibetan-Bold.ttf",
-    src: "NotoSansTibetan-Bold.ttf",
+    name: "NotoSansThai-Bold.ttf",
+    src: "NotoSansThai-Bold.ttf",
 }
 
 prebuilt_font {
-    name: "NotoSansTibetan-Regular.ttf",
-    src: "NotoSansTibetan-Regular.ttf",
+    name: "NotoSansThai-Regular.ttf",
+    src: "NotoSansThai-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSansThaiUI-Bold.ttf",
+    src: "NotoSansThaiUI-Bold.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSansThaiUI-Regular.ttf",
+    src: "NotoSansThaiUI-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSansTifinagh-Regular.otf",
+    src: "NotoSansTifinagh-Regular.otf",
 }
 
 prebuilt_font {
@@ -788,151 +924,6 @@ prebuilt_font {
 }
 
 prebuilt_font {
-    name: "NotoSansYi-Regular.ttf",
-    src: "NotoSansYi-Regular.ttf",
-}
-
-prebuilt_font {
-    name: "NotoNaskhArabic-Regular.ttf",
-    src: "NotoNaskhArabic-Regular.ttf",
-}
-
-prebuilt_font {
-    name: "NotoNaskhArabic-Bold.ttf",
-    src: "NotoNaskhArabic-Bold.ttf",
-}
-
-prebuilt_font {
-    name: "NotoNaskhArabicUI-Regular.ttf",
-    src: "NotoNaskhArabicUI-Regular.ttf",
-}
-
-prebuilt_font {
-    name: "NotoNaskhArabicUI-Bold.ttf",
-    src: "NotoNaskhArabicUI-Bold.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSansArmenian-Regular.otf",
-    src: "NotoSansArmenian-Regular.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansArmenian-Bold.otf",
-    src: "NotoSansArmenian-Bold.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansArmenian-Medium.otf",
-    src: "NotoSansArmenian-Medium.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansDevanagari-Regular.otf",
-    src: "NotoSansDevanagari-Regular.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansDevanagari-Bold.otf",
-    src: "NotoSansDevanagari-Bold.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansDevanagari-Medium.otf",
-    src: "NotoSansDevanagari-Medium.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansDevanagariUI-Regular.otf",
-    src: "NotoSansDevanagariUI-Regular.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansDevanagariUI-Bold.otf",
-    src: "NotoSansDevanagariUI-Bold.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansDevanagariUI-Medium.otf",
-    src: "NotoSansDevanagariUI-Medium.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansGeorgian-VF.ttf",
-    src: "NotoSansGeorgian-VF.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSansHebrew-Regular.ttf",
-    src: "NotoSansHebrew-Regular.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSansHebrew-Bold.ttf",
-    src: "NotoSansHebrew-Bold.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSansSymbols-Regular-Subsetted.ttf",
-    src: "NotoSansSymbols-Regular-Subsetted.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSansSymbols-Regular-Subsetted2.ttf",
-    src: "NotoSansSymbols-Regular-Subsetted2.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSansThai-Regular.ttf",
-    src: "NotoSansThai-Regular.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSansThai-Bold.ttf",
-    src: "NotoSansThai-Bold.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSansThaiUI-Regular.ttf",
-    src: "NotoSansThaiUI-Regular.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSansThaiUI-Bold.ttf",
-    src: "NotoSansThaiUI-Bold.ttf",
-}
-
-prebuilt_font {
-    name: "NotoSerifArmenian-Bold.otf",
-    src: "NotoSerifArmenian-Bold.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansGunjalaGondi-Regular.otf",
-    src: "NotoSansGunjalaGondi-Regular.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansHanifiRohingya-Regular.otf",
-    src: "NotoSansHanifiRohingya-Regular.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansKhojki-Regular.otf",
-    src: "NotoSansKhojki-Regular.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansMasaramGondi-Regular.otf",
-    src: "NotoSansMasaramGondi-Regular.otf",
-}
-
-prebuilt_font {
-    name: "NotoSansTifinagh-Regular.otf",
-    src: "NotoSansTifinagh-Regular.otf",
-}
-
-prebuilt_font {
     name: "NotoSansWancho-Regular.otf",
     src: "NotoSansWancho-Regular.otf",
 }
@@ -943,8 +934,13 @@ prebuilt_font {
 }
 
 prebuilt_font {
-    name: "NotoSerifArmenian-Regular.otf",
-    src: "NotoSerifArmenian-Regular.otf",
+    name: "NotoSansYi-Regular.ttf",
+    src: "NotoSansYi-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSerifArmenian-VF.ttf",
+    src: "NotoSerifArmenian-VF.ttf",
 }
 
 prebuilt_font {
@@ -968,13 +964,13 @@ prebuilt_font {
 }
 
 prebuilt_font {
-    name: "NotoSerifEthiopic-Bold.otf",
-    src: "NotoSerifEthiopic-Bold.otf",
+    name: "NotoSerifDogra-Regular.ttf",
+    src: "NotoSerifDogra-Regular.ttf",
 }
 
 prebuilt_font {
-    name: "NotoSerifEthiopic-Regular.otf",
-    src: "NotoSerifEthiopic-Regular.otf",
+    name: "NotoSerifEthiopic-VF.ttf",
+    src: "NotoSerifEthiopic-VF.ttf",
 }
 
 prebuilt_font {
@@ -1063,6 +1059,11 @@ prebuilt_font {
 }
 
 prebuilt_font {
+    name: "NotoSerifNyiakengPuachueHmong-VF.ttf",
+    src: "NotoSerifNyiakengPuachueHmong-VF.ttf",
+}
+
+prebuilt_font {
     name: "NotoSerifSinhala-Bold.otf",
     src: "NotoSerifSinhala-Bold.otf",
 }
@@ -1100,4 +1101,14 @@ prebuilt_font {
 prebuilt_font {
     name: "NotoSerifThai-Regular.ttf",
     src: "NotoSerifThai-Regular.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSerifTibetan-VF.ttf",
+    src: "NotoSerifTibetan-VF.ttf",
+}
+
+prebuilt_font {
+    name: "NotoSerifYezidi-VF.ttf",
+    src: "NotoSerifYezidi-VF.ttf",
 }
